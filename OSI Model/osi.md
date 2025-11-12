@@ -61,4 +61,3 @@ Transmits raw **bits** as electrical or radio signals:
 
 
 
-## Quick Memorization Trick
